@@ -27,12 +27,30 @@ I'm a **Software Developer** passionate about solving real-world problems, parti
 
 ---
 
-## 🌱 Current Projects
 
-- **[Sokotenda-Web](https://github.com/khulysojohn/sokotenda-web)**: A modern web application aiming to simplify market interactions in rural areas.
-- **Personal Projects**:  
-  - Mining project platform  
-  - Funeral contribution system  
+## 📞 Connect with Me
+
+- 📧 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) [Kuliso John Thavhiwa](mailto:khuliso.thavhiwa@techbridlesolution.org)  
+- 🐦 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white) [@Khulysojohn](https://twitter.com/Khulysojohn)  
+- 💻 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white) [Khuliso Thavhiwa](https://leetcode.com/KhulisoThavhiwa)  
+- 🎓 ![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=hackerrank&logoColor=white) [Khuliso Thavhiwa](https://www.hackerrank.com/KhulisoThavhiwa)  
+- 🏢 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white) [Khuliso John Thavhiwa](https://www.linkedin.com/in/khulysojohn)  
+- ❓ ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?style=flat&logo=stackoverflow&logoColor=white) [Khuliso Thavhiwa](https://stackoverflow.com/users/<your-stackoverflow-id>)
+
+---
+
+### 👯 Looking to Collaborate On:
+- Open-source projects that focus on community development  
+- Scalable systems that address rural and underserved communities' needs  
+
+### 🤔 Looking for Help With:
+- Developing user-friendly and scalable web applications  
+- Exploring innovative ideas for community-driven software solutions  
+
+### 💬 Ask Me About:
+- Full-stack development with **C#**, **Node.js**, **React**, **MongoDB**, and **Tailwind CSS**  
+- Turning innovative ideas into solutions that make a difference  
+
 
 ---
 
@@ -59,14 +77,7 @@ I aim to:
 
 ---
 
-## 📞 Connect with Me
-
-- **Email**: [khulysojohn@gmail.com](mailto:khulysojohn@gmail.com)  
-- **Twitter**: [@KhulysoDev](https://twitter.com/KhulysoDev)  
-- **GitHub**: [github.com/khulysojohn](https://github.com/khulysojohn)
-
----
 
 ### 💡 Fun Fact
 
-I’m known as *Khulyso.Dev Studio* in my community, where I offer free educational services and work to turn dreams into reality. 🌟  
+I’m known as *Tutor* in my community, where I offer  educational services and work to turn dreams into reality. 🌟  

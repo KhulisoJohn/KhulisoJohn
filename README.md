@@ -67,22 +67,22 @@ I aim to:
 ## 💬 How to Reach Me:
 
 <div align="center">
-  <a href="mailto:khulysojohn@gmail.com">
+  <a href="mailto:khuliso.thavhiwa@techbridlefoundation.org">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/KhulysoDev">
+  <a href="https://twitter.com/Khulysojohn">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://leetcode.com/KhulisoThavhiwa">
+  <a href="https://leetcode.com/u/khuljohn/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/KhulisoThavhiwa">
+  <a href="https://www.hackerrank.com/profile/khulysojohn">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://www.linkedin.com/in/khuliso-thavhiwa">
+  <a href="https://www.linkedin.com/in/khulyso/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/<your-stackoverflow-id>">
+  <a href="https://stackoverflow.com/users/28428246/khuliso-john-thavhiwa">
     <img src="https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </div>

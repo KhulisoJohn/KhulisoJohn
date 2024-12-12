@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Khuliso  John Thavhiwa**. an aspiring **Software Developer** and a proud **2025 cohort member at TechBridle Foundation**, where I’m deepening my expertise in **Software Engineering**.
+Welcome to my GitHub profile! I'm **Khuliso  John Thavhiwa**. an **aspiring Software Developer** and a proud **2025 cohort member at TechBridle Foundation**, where I’m deepening my expertise in **Software Engineering**.
 
 ---
 
@@ -35,7 +35,7 @@ I aim to:
 - Exploring innovative ideas for community-driven software solutions  
 
 ### 💬 Ask Me About:
-- Full-stack development with **HTML5**, **CSS3**, **Javascript**, **React**, and **Tailwind CSS**  
+- Frontend development with **HTML5**, **CSS3**, **Javascript**, **React**, and **Tailwind CSS**  
 - Turning innovative ideas into solutions that make a difference 
 ---
 
@@ -48,13 +48,15 @@ I aim to:
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
 
   
-- **Frameworks & Tools**:  
+- **Frameworks & Tools**:
+  
   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
     ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)   
  
 
-- **Development Focus**:  
+- **Development Focus**:
+  
   - Full-stack web applications  
   - Scalable and maintainable systems  
   - Practical problem-solving for rural and community-based initiatives  
@@ -62,7 +64,8 @@ I aim to:
 ---
 
 
-### 💬 How to Reach Me:
+## 💬 How to Reach Me:
+
 <div align="center">
   <a href="mailto:khulysojohn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -86,8 +89,8 @@ I aim to:
 
 ---
  
+## 📊 GitHub Stats:
 
-### 📊 GitHub Stats:
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=khulisojohn&show_icons=true&theme=radical" type="image/svg+xml">
@@ -135,4 +138,5 @@ I aim to:
 
 
 ### ⚡ Fun Fact:
+
 I’m known as a *Tutor* in my community, where I’ve been offering educational services and working to turn dreams into reality! 🌟  

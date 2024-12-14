@@ -93,25 +93,25 @@ I aim to:
 
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=khulisojohn&show_icons=true&theme=radical" type="image/svg+xml">
-    <img src="https://github-readme-stats.vercel.app/api?username=khulisojohn&show_icons=true&theme=radical" alt="Khuliso's GitHub Stats" width="48%" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=khulisoJohn&show_icons=true&theme=radical" type="image/svg+xml">
+    <img src="https://github-readme-stats.vercel.app/api?username=khulisoJohn&show_icons=true&theme=radical" alt="Khuliso's GitHub Stats" width="48%" />
   </picture>
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=khulisojohn&theme=radical" type="image/svg+xml">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khulisojohn&theme=radical" alt="Khuliso's GitHub Streak" width="48%" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=khulisoJohn&theme=radical" type="image/svg+xml">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khulisoJohn&theme=radical" alt="Khuliso's GitHub Streak" width="48%" />
   </picture>
 </div>
 
 <div align="center">
   
   <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=khulisojohn&theme=radical" type="image/svg+xml">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khulisojohn&theme=radical" alt="Khuliso's Activity Graph" width="96%" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=khulisoJohn&theme=radical" type="image/svg+xml">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khulisoJohn&theme=radical" alt="Khuliso's Activity Graph" width="96%" />
   </picture>
   
   <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=khulisojohn&theme=radical" type="image/svg+xml">
-    <img src="https://github-profile-trophy.vercel.app/?username=khuiysojohn&theme=radical" alt="Trophies" width="96%" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=khulisoJohn&theme=radical" type="image/svg+xml">
+    <img src="https://github-profile-trophy.vercel.app/?username=khulisoJohn&theme=radical" alt="Trophies" width="96%" />
   </picture>
   <picture>
     <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" type="image/svg+xml">
@@ -119,7 +119,7 @@ I aim to:
   </picture>
   
   <picture>
-    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khulisojohn&theme=radical" type="image/svg+xml">
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khulisoJohn&theme=radical" type="image/svg+xml">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khulisojohn&theme=radical" alt="Summary Card" width="48%" />
   </picture>
   <picture>

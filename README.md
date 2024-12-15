@@ -104,10 +104,7 @@ I aim to:
 
 <div align="center">
   
-  <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=khulisoJohn&theme=radical" type="image/svg+xml">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khulisoJohn&theme=radical" alt="Khuliso's Activity Graph" width="96%" />
-  </picture>
+  
   
   <picture>
     <source srcset="https://github-profile-trophy.vercel.app/?username=khulisoJohn&theme=radical" type="image/svg+xml">
@@ -119,18 +116,13 @@ I aim to:
   </picture>
   
   <picture>
-    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khulisoJohn&theme=radical" type="image/svg+xml">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khulisojohn&theme=radical" alt="Summary Card" width="48%" />
-  </picture>
-  <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khulisojohn&layout=compact&theme=radical" type="image/svg+xml">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khulisojohn&layout=compact&theme=radical" alt="Top Languages" width="48%" />
   </picture>
-  <picture>
-    <source srcset="https://komarev.com/ghpvc/?username=khulysojohn&color=brightgreen" type="image/svg+xml">
-    <img src="https://komarev.com/ghpvc/?username=khulisojohn&color=brightgreen" alt="Visitor Count" width="48%" />
+ <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=khulisoJohn&theme=radical" type="image/svg+xml">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khulisoJohn&theme=radical" alt="Khuliso's Activity Graph" width="96%" />
   </picture>
-
 </div>
 
 

@@ -105,10 +105,7 @@ I aim to:
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical" type="image/svg+xml">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical" alt="Top Languages" width="48%" />
   </picture>
-  <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical" type="image/svg+xml">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical" alt="Khuliso's Activity Graph" width="96%" />
-  </picture>
+
 </div>
 
 ---

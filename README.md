@@ -6,9 +6,6 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
 
 ## 📚 Learning Journey
 
-I'm part of the **2025 cohort at TechBridle Foundation**, where I'm advancing my skills in **Software Engineering**.  
-I actively use **LeetCode** for interview prep and **HackerRank** for mastering algorithms and data structures.
-
 ### 🌱 Currently Learning:
 - Basics concepts of **C#** and **.Net**  
 - Mastering the **MEARN stack** for full-stack development  

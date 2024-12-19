@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
 ## 📚 Learning Journey
 
 ### 🌱 Currently Learning:
-- Basics concepts of **C#** and **.Net**  
-- Mastering the **MERN stack** for full-stack development  
+- Software development at **Techbridle Foundation** 
+- Basics concepts of **C#** and **.NET** 
 - Strengthening algorithms and data structures on **HackerRank** and **LeetCode**  
 
 

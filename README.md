@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
 ## 📚 Learning Journey
 
 ### 🌱 Currently Learning:
-- Software development at **Techbridle Foundation** 
+- Software development at **Techbridle Foundation**
+- javascript fundamentals at **Freecodecamo**
 - Basics concepts of **C#** and **.NET** 
 - Strengthening algorithms and data structures on **HackerRank** and **LeetCode**  
 

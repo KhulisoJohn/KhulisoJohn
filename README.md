@@ -70,7 +70,6 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhulisoJohn&theme=radical" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhulisoJohn&theme=radical" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical" width="96%" />
-  <img src="https://github-contribution-stats.vercel.app/api/?username=KhulisoJohn" width="48%" />
   <img src="https://github-profile-trophy.vercel.app/?username=KhulisoJohn&theme=radical" width="96%" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" />
   <img src="https://img.shields.io/github/followers/KhulisoJohn?label=Followers&style=social" width="48%" />

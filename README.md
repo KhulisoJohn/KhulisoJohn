@@ -47,15 +47,7 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
   <a href="https://discord.com/users/youruserid">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://slack.com/yourworkspace">
-    <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" />
-  </a>
-  <a href="https://www.youtube.com/c/yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+
 </div>
 
 
@@ -66,12 +58,9 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhulisoJohn&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhulisoJohn&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhulisoJohn&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhulisoJohn&theme=radical" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical" width="96%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KhulisoJohn&theme=radical" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhulisoJohn&theme=radical" width="96%" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" />
-  <img src="https://img.shields.io/github/followers/KhulisoJohn?label=Followers&style=social" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical" width="48%" />
 </div>
 
 

@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
 ### 🌱 Currently Learning:
 - Software development at **Techbridle Foundation**
 - javascript fundamentals at **Freecodecamp**
-- Basics concepts of **C#** and **.NET** 
-- Strengthening algorithms and data structures on **HackerRank** and **LeetCode**  
+- Basics concepts of **C#** and **ASP.NET**
+- Basic Database management with **SQL** and **noSQL**
+- Strengthening algorithms and data structures on  **LeetCode**  
 
 
 
@@ -26,7 +27,7 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
 - **Development Focus**:  
   - Full-stack web applications  
   - Scalable and maintainable systems  
-  - Practical problem-solving for rural and community-based initiatives  
+  - Practical problem-solving for community-based initiatives  
 
 ---
 

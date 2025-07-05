@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
   <a href="https://slack.com/">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   </a>
-  <a href="https://dev.to/yourusername">
+  <a href="https://dev.to/khulyso">
     <img src="https://img.shields.io/badge/DEV-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Community" />
   </a>
   <a href="https://stackoverflow.com/users/youruserid">

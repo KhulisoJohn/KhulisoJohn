@@ -69,9 +69,7 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Softwar
   <a href="https://dev.to/khulyso">
     <img src="https://img.shields.io/badge/DEV-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Community" />
   </a>
-  <a href="https://stackoverflow.com/users/youruserid">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
+
   <a href="https://www.tiktok.com/@yourusername">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>

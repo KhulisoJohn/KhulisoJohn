@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Software Developer**.
+Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Software Developer**.
 
 ---
 
@@ -11,9 +11,7 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
 - javascript fundamentals at **Freecodecamp**
 - Basics concepts of **C#** and **ASP.NET**
 - Basic Database management with **SQL** and **noSQL**
-- Strengthening algorithms and data structures on  **LeetCode**  
-
-
+ 
 
 ---
 
@@ -23,7 +21,6 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%2300C7B7.svg?style=flat&logo=mongodb&logoColor=white)
@@ -31,19 +28,13 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **aspiring Softw
 ### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F7DF1E.svg?style=flat&logo=github-actions&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile-%23007ACC.svg?style=flat&logo=scrumalliance&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)

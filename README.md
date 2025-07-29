@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Softwar
 
 ---
 
-## 📚 Learning Journey
+##  Learning Journey
 
-### 🌱 Currently Learning:
+###  Currently Learning:
 - Software development at **Techbridle Foundation**
 - javascript fundamentals at **Freecodecamp**
 - Basics concepts of **C#** and **ASP.NET**
@@ -29,8 +29,6 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Softwar
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
@@ -53,7 +51,7 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Softwar
 
 ## 💬 How to Reach Me:
 <div align="left">
-  <a href="mailto:khuliso.thavhiwa@techbridlefoundation.org">
+  <a href="mailto:khulysojohn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/Khulysojohn">
@@ -70,9 +68,6 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Softwar
     <img src="https://img.shields.io/badge/DEV-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Community" />
   </a>
 
-  <a href="https://www.tiktok.com/@yourusername">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
 </div>
 
 

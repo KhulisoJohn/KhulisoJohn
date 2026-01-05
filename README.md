@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Software Developer**.
+Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Fullstack Software Developer**.
 
 ---
 
@@ -18,24 +18,14 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Softwar
 ## 🛠️ Skills and Expertise
 
 ### Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,vscode,mysql,docker,ts,aws" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,mysql,mongodb,postgres" />
 </div>
 
 ### Frameworks & Tools  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-%237B83EB.svg?style=flat&logo=microsoft-teams&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,tailwind,react,ts,django,git,github,vscode,postman,docker,linux,azure,supabase" />
+</div>
 
 
 
@@ -49,20 +39,20 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Softwar
 ## 💬 How to Reach Me:
 <div align="left">
   <a href="mailto:khulysojohn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+   <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://twitter.com/Khulysojohn">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   <a href="https://www.linkedin.com/in/khulyso/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://discord.com/users/youruserid">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
  
   <a href="https://dev.to/khulyso">
-    <img src="https://img.shields.io/badge/DEV-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Community" />
+   <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 
 </div>

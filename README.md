@@ -18,12 +18,9 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Junior Softwar
 ## 🛠️ Skills and Expertise
 
 ### Programming Languages
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-%2300C7B7.svg?style=flat&logo=mongodb&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,vscode,mysql,docker,ts,aws" />
+</div>
 
 ### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)

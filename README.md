@@ -62,18 +62,25 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Fullstack Soft
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhulisoJohn&show_icons=true&theme=radical" width="96%" />
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhulisoJohn&show_icons=true&theme=radical&count_private=true)
 
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhulisoJohn&theme=radical" style="width: 96%; height: auto; max-height: 100px;" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical" style="width:96%; height: auto; max-height: 100px;" />
-</p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical" width="48%" />
-</div>
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical)
+
+<!-- Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=KhulisoJohn&theme=radical&no-frame=false&column=7)
+
+<!-- Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhulisoJohn&theme=radical)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical&area=true)
+
+<!-- Daily Quote -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 ---

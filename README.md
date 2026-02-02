@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Fullstack Soft
 
 ---
 
-##  Learning Journey
+##  My Journey
 
-###  Currently Learning:
-- Software development at **Techbridle Foundation**
-- javascript fundamentals at **Freecodecamp**
-- Basics concepts of **C#** and **ASP.NET**
+###  Currently:
+- serving as software development mentor at **Techbridle Foundation**
+- Learning fundamentals at **Freecodecamp**
+- Building scalable Api using **C#** and **ASP.NET**
 - Basic Database management with **SQL** and **noSQL**
  
 
@@ -19,12 +19,12 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Fullstack Soft
 
 ### Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,mongodb,postgres" />
 </div>
 
 ### Frameworks & Tools  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,tailwind,react,ts,django,git,github,vscode,postman,docker,linux,azure,supabase" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,tailwind,react,ts,git,github,vscode,postman,docker,linux,azure,supabase" />
 </div>
 
 

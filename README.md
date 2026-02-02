@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Fullstack Soft
 
 ###  Currently:
 - serving as software development mentor at **Techbridle Foundation**
-- Learning fundamentals at **Freecodecamp**
-- Building scalable Api using **C#** and **ASP.NET**
+- Learning **C#** fundamentals at **Freecodecamp**
+- Building scalable Api using **ASP.NET**
 - Basic Database management with **SQL** and **noSQL**
  
 

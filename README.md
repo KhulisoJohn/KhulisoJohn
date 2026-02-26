@@ -63,21 +63,43 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Fullstack Soft
 ## 📊 GitHub Stats:
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhulisoJohn&show_icons=true&theme=radical&count_private=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhulisoJohn&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+
+
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical&cache_seconds=1800)
+
+
 
 <!-- Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=KhulisoJohn&theme=radical&no-frame=false&column=7)
+
+
+![Trophies](https://github-profile-trophy.herokuapp.com/?user=KhulisoJohn&theme=radical&no-frame=false&column=7)
+
+
 
 <!-- Streak -->
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhulisoJohn&theme=radical)
 
+
+
 <!-- Activity Graph -->
+
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical&area=true)
 
+
+
 <!-- Daily Quote -->
+
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 

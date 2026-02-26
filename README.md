@@ -61,49 +61,38 @@ Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Fullstack Soft
 ---
 
 ## 📊 GitHub Stats:
+<!-- ========================= -->
+<!--        GitHub Stats       -->
+<!-- ========================= -->
 
-<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats-khulisojohn.vercel.app/api?username=KhulisoJohn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats-khulisojohn.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical&langs_count=8" height="165" />
+</p>
 
+<!-- ========================= -->
+<!--        Streak Stats       -->
+<!-- ========================= -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhulisoJohn&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhulisoJohn&theme=radical" height="165" />
+</p>
 
+<!-- ========================= -->
+<!--      Activity Graph       -->
+<!-- ========================= -->
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical&area=true&hide_border=true" />
+</p>
 
-<!-- Top Languages -->
+<!-- ========================= -->
+<!--       Profile Views       -->
+<!-- ========================= -->
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical&cache_seconds=1800)
-
-
-
-<!-- Trophies -->
-
-
-![Trophies](https://github-profile-trophy.herokuapp.com/?user=KhulisoJohn&theme=radical&no-frame=false&column=7)
-
-
-
-<!-- Streak -->
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhulisoJohn&theme=radical)
-
-
-
-<!-- Activity Graph -->
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical&area=true)
-
-
-
-<!-- Daily Quote -->
-
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhulisoJohn&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 

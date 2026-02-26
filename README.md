@@ -1,103 +1,80 @@
-# Hi there 👋
+<!-- ========================= -->
+<!--         HEADER            -->
+<!-- ========================= -->
 
-Welcome to my GitHub profile! I'm **Khuliso John Thavhiwa**, an **Fullstack Software Developer**.
+<h1 align="center">Khuliso John</h1>
+<h3 align="center">Full-Stack Developer | React • C# • Python • FastAPI • Azure</h3>
 
----
-
-##  My Journey
-
-###  Currently:
-- serving as software development mentor at **Techbridle Foundation**
-- Learning **C#** fundamentals at **Freecodecamp**
-- Building scalable Api using **ASP.NET**
-- Basic Database management with **SQL** and **noSQL**
- 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/XXXXX?v=4" width="180" style="border-radius: 50%;" />
+</p>
 
 ---
 
-## 🛠️ Skills and Expertise
+## 🚀 Tech Stack
 
-### Programming Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,mongodb,postgres" />
-</div>
+### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts" />
+</p>
 
-### Frameworks & Tools  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,tailwind,react,ts,git,github,vscode,postman,docker,linux,azure,supabase" />
-</div>
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,dotnet" />
+</p>
 
-
-
-- **Development Focus**:  
-  - Full-stack web applications  
-  - Scalable and maintainable systems  
-  - Practical problem-solving for community-based initiatives  
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,mongodb,postgres" />
+</p>
 
 ---
 
-## 💬 How to Reach Me:
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-khulisojohn.vercel.app/api?username=KhulisoJohn&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=2" height="165" />
+  <img src="https://github-readme-stats-khulisojohn.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical&langs_count=8&v=2" height="165" />
+</p>
+
+<!-- Streak Stats -->
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhulisoJohn&theme=radical" height="165"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical&area=true&hide_border=true" width="49% />
+</p>
+
+---
+
+## 💬 Connect With Me
+
 <div align="left">
+
   <a href="mailto:khulysojohn@gmail.com">
-   <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/Khulysojohn">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
+
   <a href="https://www.linkedin.com/in/khulyso/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/youruserid">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
- 
+
   <a href="https://dev.to/khulyso">
-   <img src="https://skillicons.dev/icons?i=devto" />
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/278XXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 </div>
 
-
 ---
 
-## 📊 GitHub Stats:
-<!-- ========================= -->
-<!--        GitHub Stats       -->
-<!-- ========================= -->
+## 💡 Daily Quote
 
 <p align="center">
-  <img src="https://github-readme-stats-khulisojohn.vercel.app/api?username=KhulisoJohn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats-khulisojohn.vercel.app/api/top-langs/?username=KhulisoJohn&layout=compact&theme=radical&langs_count=8" height="165" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=2" />
 </p>
-
-<!-- ========================= -->
-<!--        Streak Stats       -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhulisoJohn&theme=radical" height="165" />
-</p>
-
-<!-- ========================= -->
-<!--      Activity Graph       -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical&area=true&hide_border=true" />
-</p>
-
-<!-- ========================= -->
-<!--       Profile Views       -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhulisoJohn&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-### ⚡ Fun Fact & Open for Collaboration:
-
-I’m known as a *Tutor* in my community, where I’ve been offering educational services and working to turn dreams into reality! 🌟
-
-I'm also open to collaboration on exciting projects, open-source contributions, and mentoring opportunities. Feel free to reach out if you'd like to work together!

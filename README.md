@@ -2,12 +2,8 @@
 <!--         HEADER            -->
 <!-- ========================= -->
 
-<h1 align="center">Khuliso John</h1>
+<h1 align="center">Khuliso John Thavhiwa</h1>
 <h3 align="center">Full-Stack Developer | React • C# • Python • FastAPI • Azure</h3>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/XXXXX?v=4" width="180" style="border-radius: 50%;" />
-</p>
 
 ---
 
@@ -40,7 +36,7 @@
 <!-- Streak Stats -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhulisoJohn&theme=radical" height="165"/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical&area=true&hide_border=true" width="49% />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=radical&area=true&hide_border=true" width="49%"/>
 </p>
 
 ---

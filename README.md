@@ -41,9 +41,10 @@ const khuliso = {
 
   stack: {
     frontend: ["React", "TypeScript"],
-    backend: ["Node.js", "C#", "Python", "FastAPI"],
+    backend: ["Node.js", "C#", "Python"],
+    framework ["Epress", "ASP.NET Core", "FastApi"],
     database: ["MongoDB", "PostgreSQL"],
-    cloud: ["Azure", "Docker"]
+    cloud: ["Azure", "OCI"]
   },
 
   goals: "Become a world-class Cloud & Software Engineer"

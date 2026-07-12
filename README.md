@@ -40,9 +40,9 @@ const khuliso = {
   ],
 
   stack: {
-    frontend: ["React", "TypeScript"],
+    frontend: ["HTML", "CSS", "Javascript", "React", "TypeScript"],
     backend: ["Node.js", "C#", "Python"],
-    framework ["Epress", "ASP.NET Core", "FastApi"],
+    framework ["Epress", "ASP.NET Core", "FastApi", "TypeScript"],
     database: ["MongoDB", "PostgreSQL"],
     cloud: ["Azure", "OCI"]
   },

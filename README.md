@@ -30,13 +30,13 @@
 ## 🧠 About Me
 
 ```ts
-const khuliso = {
+const khulyso John = {
   role: "Full-Stack Developer",
   focus: "Building scalable systems & real-world applications",
   
   currentWork: [
     "BigBoxSA (Marketplace with Geo-location)",
-    "AI Career Platform (CV Analyzer, Interview Coach)"
+    "FixMyCity(Plantform to report any lack of service delivery around your city to the municipality"
   ],
 
   stack: {

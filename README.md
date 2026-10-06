@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:00d4ff&height=250&section=header&text=KHULISO%20JOHN%20THAVHIWA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20|%20REACT%20•%20C%23%20•%20PYTHON%20•%20AZURE&descAlignY=55&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:00d4ff&height=250&section=header&text=KHULISO%20JOHN%20THAVHIWA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20DATA%20ANALYST%20%7C%20REACT%20•%20C%23%20•%20PYTHON%20•%20POWER%20BI&descAlignY=55&descSize=15" width="100%" />
 </div>
 
 <!-- ================= VISITOR BADGE + TYPING ================= -->
@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Real-World+Systems;Full-Stack+Engineer+in+Progress;React+%7C+Node+%7C+C%23+%7C+Python;Future+Cloud+Engineer+%E2%98%81%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Real-World+Systems;Full-Stack+Developer+%26+Data+Analyst;React+%7C+Node+%7C+C%23+%7C+Python;Turning+Data+into+Insights+with+Power+BI+%26+Excel;Future+Cloud+Engineer+%E2%98%81%EF%B8%8F" />
 </div>
 
 <br>
@@ -37,19 +37,21 @@
 ## 🧠 &nbsp;About Me
 
 ```ts
-const khulyso John = {
-  role: "Full-Stack Developer",
-  focus: "Building scalable systems & real-world applications",
-  
+const khulisoJohn = {
+  role: ["Full-Stack Developer", "Data Analyst"],
+  focus: "Building scalable systems, real-world applications & data-driven insights",
+
   currentWork: [
+    "Experience Lab at Umuzi",
     "BigBoxSA (Marketplace with Geo-location)",
   ],
 
   stack: {
-    frontend: ["HTML", "CSS", "Javascript", "React", "TypeScript"],
+    frontend: ["HTML", "CSS", "JavaScript", "React", "TypeScript"],
     backend: ["Node.js", "C#", "Python"],
-    framework ["Epress", "ASP.NET Core", "FastApi", "TypeScript"],
+    frameworks: ["Express", "ASP.NET Core", "FastAPI"],
     database: ["MongoDB", "PostgreSQL"],
+    dataAnalysis: ["Power BI", "Excel", "Python"],
     cloud: ["Azure", "OCI"]
   },
 
@@ -70,16 +72,40 @@ const khulyso John = {
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,cs,python,fastapi,dotnet,mongodb,postgres,azure,docker,kubernetes,git&perline=7&theme=dark"/>
 </p>
 
+### 📊 &nbsp;Data Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 <div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
-<!-- ================= PROJECT ================= -->
+<!-- ================= CURRENT FOCUS ================= -->
 ## 🚀 &nbsp;Current Focus
 
 <table align="center" width="100%">
+<tr>
+<td width="100%">
+
+### 🎓 Experience Lab @ Umuzi
+
+Hands-on, work-integrated learning where I'm sharpening my **data analysis** skills:
+
+- Cleaning and analysing data with **Excel** and **Python**
+- Building dashboards and reports in **Power BI**
+- Turning raw data into insights that support decisions
+
+**Tools:** Power BI • Excel • Python • PostgreSQL
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
@@ -116,19 +142,7 @@ A **location-based marketplace platform** where users can:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhulisoJohn&theme=tokyonight&border_radius=12&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhulisoJohn&theme=tokyo-night&area=true&hide_border=true&radius=12"/>
-</p>
 
-<!-- ================= TROPHIES (new) ================= -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhulisoJohn&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
-</p>
-
-<!-- ================= CONTRIBUTION SNAKE (new) ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KhulisoJohn/KhulisoJohn/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 <div align="center">
 
